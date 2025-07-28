@@ -1,3 +1,2 @@
 # PublicPythonProjects
-It's a repo with some Python projects I want to work on. I still make mistakes, so you might find inefficient or overly complex code in here.
-This file will be updated once the repo contains several projects.
+It's a repo with some Python projects I want to work on. I'll focus on cybersecurity-related projects, i.e. a port scanner, web crawlers, recreations of popular tools, etc.
